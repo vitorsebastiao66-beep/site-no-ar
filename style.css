@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    padding: 10px;
+    text-align: center;
+    background-color: aliceblue;
+}
+main{
+    padding: 50px 10%;
+}
